@@ -40,3 +40,22 @@ td {
 .green {
   background: rgb(202, 245, 222);
 } 
+.purple {
+  background: rgb(204, 153, 255);
+}
+
+.orange {
+  background: rgb(255, 204, 153);
+}
+
+.yellow {
+  background: rgb(255, 255, 153);
+}
+
+.teal {
+  background: rgb(153, 255, 204);
+}
+
+.red {
+  background: rgb(255, 153, 153);
+}
