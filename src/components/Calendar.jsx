@@ -24,7 +24,7 @@ const Calendar = () => {
   <tbody>
   <tr>
   <td className="time">8am</td>
-  <Event event='Fancy Dinner 🎩' color ='green' />
+  <Event event='Fancy Dinner 🎩' color ='green' location='Maple & Ash'/>
   <td></td>
   <td></td>
   <Event event='Mini-Golf ⛳' color ='blue'/>
